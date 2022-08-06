@@ -65,28 +65,6 @@
 			<enclosure url="https://anchor.fm/s/ade3c198/podcast/play/55756076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-6%2F8a007e00-fc58-f8e4-bbbd-1c4a67ccaac9.mp3" length="54836880" type="audio/mpeg"/>
 			<itunes:subtitle>Rob de Jong and Daniel Birmingham talk about upgrading from Azure AD Connect v1 to either Azure AD Connect v2 or the newer Azure Connect Cloud Sync.
 			</itunes:subtitle>
-			<itunes:summary><![CDATA[<p>Rob de Jong and Daniel Birmingham talk about upgrading from Azure AD Connect v1 to either Azure AD Connect v2 or the newer Azure Connect Cloud Sync.</p>
-				<p>Links from the show:</p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect-v2">What is Azure AD Connect v2.0? - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Azure AD Connect: Upgrade from a previous version - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Upgrading Azure AD Connect Swing Migration</a></p>
-				<p>* <a href="https://github.com/Microsoft/AADConnectConfigDocumenter">GitHub - microsoft/AADConnectConfigDocumenter</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history">Azure AD Connect: Version release history - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp">Tutorial - Pilot Azure AD Connect cloud sync for an existing synced AD forest - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-topologies#multiple-azure-ad-tenants">Azure AD Connect: Supported topologies - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-faq">Azure Active Directory Connect FAQ - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-staging-server">Azure AD Connect sync: Operational tasks and considerations - Microsoft Entra | Microsoft Docs</a></p>
-				<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr-writeback">Enable Azure Active Directory password writeback - Microsoft Entra | Microsoft Docs</a></p>
-				<p>Speakers:</p>
-				<p>* <a href="https://twitter.com/rjong999">Rob de Jong - Microsoft</a></p>
-				<p>* <a href="https://twitter.com/DbMsft">Daniel Birmingham - Microsoft</a></p>
-				<p>Hosts:</p>
-				<p>* <a href="https://twitter.com/BaileyBercik">Bailey Bercik - Microsoft</a></p>
-				<p>* <a href="https://twitter.com/markmorow">Mark Morowczynski - Microsoft</a></p>
-				<p>* <a href="https://twitter.com/jeftek">Jef Kazimer - Microsoft</a></p>
-				<p>* <a href="https://twitter.com/merill">Merill Fernando - Microsoft</a></p>
-				]]>
-			</itunes:summary>
 			<itunes:author>Microsoft Identity</itunes:author>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>3120</itunes:duration>
