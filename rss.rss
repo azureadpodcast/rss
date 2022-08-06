@@ -115,5 +115,83 @@
 			<itunes:episodeType>full</itunes:episodeType>
 
 		</item>
+		<item>
+			<title>TeamsJS SDK Update with Alicia Lu</title>
+			<itunes:title>TeamsJS SDK Update with Alicia Lu</itunes:title>
+			<link>https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/</link>
+						<comments>https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/#comments</comments>        <pubDate>Mon, 01 Aug 2022 05:28:10 -0700</pubDate>
+			<guid isPermaLink="false">thake.podbean.com/a43bcbd6-203d-3adb-a611-eef800f9e2c6</guid>
+						  <description><![CDATA[<p>In this episode Jeremy talks to Alicia Lu about the new features of the Teams JS SDK v2.0 updates that allow you to build your apps across multiple Microsoft 365 surfaces like Outlook, Office.com and Microsoft Teams.</p>
+	Links from the show:
+	<ul><li><a href='https://docs.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview?WT.mc_id=M365-MVP-4025164'>Extend Teams apps across Microsoft 365 (preview) - Teams</a></li>
+	<li><a href='https://mybuild.microsoft.com/en-US/sessions/5ff4ebc7-c631-4a67-9a47-279539b07d09?source=/favorites?WT.mc_id=M365-MVP-4025164'>Build collaborative apps with Microsoft Teams and Microsoft 365 services</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/?WT.mc_id=M365-MVP-4025164'>Microsoft Teams JS SDK v2 is now generally available - Microsoft 365 Developer Blog</a></li>
+	<li><a href='https://github.com/OfficeDev/microsoft-teams-library-js'>GitHub - OfficeDev/microsoft-teams-library-js: JavaScript library for use by Microsoft Teams apps</a></li>
+	<li><a href='https://github.com/OfficeDev/TeamsFx'>GitHub - OfficeDev/TeamsFx: Developer tools for building Teams apps</a></li>
+	<li><a href='https://www.linkedin.com/in/alicia-lu/'>https://www.linkedin.com/in/alicia-lu/</a></li>
+	</ul>
+	Microsoft News
+	<ul><li><a href='https://ignite.microsoft.com/en-US/home?WT.mc_id=M365-MVP-4025164'>Microsoft Ignite</a></li>
+	<li><a href='https://powerautomate.microsoft.com/en-us/blog/join-us-at-the-first-microsoft-power-platform-conference-sept-20-22/?WT.mc_id=M365-MVP-4025164'>Join us at the first Microsoft Power Platform Conference Sept 20-22</a></li>
+	<li><a href='https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud?WT.mc_id=M365-MVP-4025164'>Introducing the Azure Developer CLI (azd): A faster way to build apps for the cloud</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/restricted-access-to-microsoft-teams-data-via-ews-starts-september-30-2022/?WT.mc_id=M365-MVP-4025164'>Restricted access to Microsoft Teams data via EWS starts September 30, 2022 - Microsoft 365 Developer Blog</a></li>
+	</ul>
+	Community Links
+	<ul><li><a href='https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/'>What's new? Unboxing the SharePoint Framework (SPFx) v1.15</a></li>
+	<li><a href='https://simondoy.com/2022/07/26/my-experiences-and-an-approach-to-implementing-power-platform-dev-ops-with-the-power-platform-toolchain-introduction/'>My experiences and an approach to implementing Power Platform Dev Ops with the Power Platform Toolchain: Introduction</a></li>
+	</ul>
+	]]></description>
+							<content:encoded><![CDATA[<p>In this episode Jeremy talks to Alicia Lu about the new features of the Teams JS SDK v2.0 updates that allow you to build your apps across multiple Microsoft 365 surfaces like Outlook, Office.com and Microsoft Teams.</p>
+	Links from the show:
+	<ul><li><a href='https://docs.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview?WT.mc_id=M365-MVP-4025164'>Extend Teams apps across Microsoft 365 (preview) - Teams</a></li>
+	<li><a href='https://mybuild.microsoft.com/en-US/sessions/5ff4ebc7-c631-4a67-9a47-279539b07d09?source=/favorites?WT.mc_id=M365-MVP-4025164'>Build collaborative apps with Microsoft Teams and Microsoft 365 services</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/?WT.mc_id=M365-MVP-4025164'>Microsoft Teams JS SDK v2 is now generally available - Microsoft 365 Developer Blog</a></li>
+	<li><a href='https://github.com/OfficeDev/microsoft-teams-library-js'>GitHub - OfficeDev/microsoft-teams-library-js: JavaScript library for use by Microsoft Teams apps</a></li>
+	<li><a href='https://github.com/OfficeDev/TeamsFx'>GitHub - OfficeDev/TeamsFx: Developer tools for building Teams apps</a></li>
+	<li><a href='https://www.linkedin.com/in/alicia-lu/'>https://www.linkedin.com/in/alicia-lu/</a></li>
+	</ul>
+	Microsoft News
+	<ul><li><a href='https://ignite.microsoft.com/en-US/home?WT.mc_id=M365-MVP-4025164'>Microsoft Ignite</a></li>
+	<li><a href='https://powerautomate.microsoft.com/en-us/blog/join-us-at-the-first-microsoft-power-platform-conference-sept-20-22/?WT.mc_id=M365-MVP-4025164'>Join us at the first Microsoft Power Platform Conference Sept 20-22</a></li>
+	<li><a href='https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud?WT.mc_id=M365-MVP-4025164'>Introducing the Azure Developer CLI (azd): A faster way to build apps for the cloud</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/restricted-access-to-microsoft-teams-data-via-ews-starts-september-30-2022/?WT.mc_id=M365-MVP-4025164'>Restricted access to Microsoft Teams data via EWS starts September 30, 2022 - Microsoft 365 Developer Blog</a></li>
+	</ul>
+	Community Links
+	<ul><li><a href='https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/'>What's new? Unboxing the SharePoint Framework (SPFx) v1.15</a></li>
+	<li><a href='https://simondoy.com/2022/07/26/my-experiences-and-an-approach-to-implementing-power-platform-dev-ops-with-the-power-platform-toolchain-introduction/'>My experiences and an approach to implementing Power Platform Dev Ops with the Power Platform Toolchain: Introduction</a></li>
+	</ul>
+	]]></content:encoded>
+						
+			<enclosure url="https://mcdn.podbean.com/mf/web/wrsj6h/M365DevPodcastEP280.mp3" length="69014445" type="audio/mpeg"/>
+			<itunes:subtitle>In this episode Jeremy talks to Alicia Lu about the new features of the Teams JS SDK v2.0 updates that allow you to build your apps across multiple Microsoft 365 surfaces like Outlook, Office.com and Microsoft Teams.
+	Links from the show:
+	Extend Teams app...</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>In this episode Jeremy talks to Alicia Lu about the new features of the Teams JS SDK v2.0 updates that allow you to build your apps across multiple Microsoft 365 surfaces like Outlook, Office.com and Microsoft Teams.</p>
+	Links from the show:
+	<ul><li><a href='https://docs.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview?WT.mc_id=M365-MVP-4025164'>Extend Teams apps across Microsoft 365 (preview) - Teams</a></li>
+	<li><a href='https://mybuild.microsoft.com/en-US/sessions/5ff4ebc7-c631-4a67-9a47-279539b07d09?source=/favorites?WT.mc_id=M365-MVP-4025164'>Build collaborative apps with Microsoft Teams and Microsoft 365 services</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/?WT.mc_id=M365-MVP-4025164'>Microsoft Teams JS SDK v2 is now generally available - Microsoft 365 Developer Blog</a></li>
+	<li><a href='https://github.com/OfficeDev/microsoft-teams-library-js'>GitHub - OfficeDev/microsoft-teams-library-js: JavaScript library for use by Microsoft Teams apps</a></li>
+	<li><a href='https://github.com/OfficeDev/TeamsFx'>GitHub - OfficeDev/TeamsFx: Developer tools for building Teams apps</a></li>
+	<li><a href='https://www.linkedin.com/in/alicia-lu/'>https://www.linkedin.com/in/alicia-lu/</a></li>
+	</ul>
+	Microsoft News
+	<ul><li><a href='https://ignite.microsoft.com/en-US/home?WT.mc_id=M365-MVP-4025164'>Microsoft Ignite</a></li>
+	<li><a href='https://powerautomate.microsoft.com/en-us/blog/join-us-at-the-first-microsoft-power-platform-conference-sept-20-22/?WT.mc_id=M365-MVP-4025164'>Join us at the first Microsoft Power Platform Conference Sept 20-22</a></li>
+	<li><a href='https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud?WT.mc_id=M365-MVP-4025164'>Introducing the Azure Developer CLI (azd): A faster way to build apps for the cloud</a></li>
+	<li><a href='https://devblogs.microsoft.com/microsoft365dev/restricted-access-to-microsoft-teams-data-via-ews-starts-september-30-2022/?WT.mc_id=M365-MVP-4025164'>Restricted access to Microsoft Teams data via EWS starts September 30, 2022 - Microsoft 365 Developer Blog</a></li>
+	</ul>
+	Community Links
+	<ul><li><a href='https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/'>What's new? Unboxing the SharePoint Framework (SPFx) v1.15</a></li>
+	<li><a href='https://simondoy.com/2022/07/26/my-experiences-and-an-approach-to-implementing-power-platform-dev-ops-with-the-power-platform-toolchain-introduction/'>My experiences and an approach to implementing Power Platform Dev Ops with the Power Platform Toolchain: Introduction</a></li>
+	</ul>
+	]]></itunes:summary>
+			<itunes:author>Jeremy Thake / Paul Schaeflein</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:block>No</itunes:block>
+			<itunes:duration>36:06</itunes:duration>
+					<itunes:episode>280</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog2583248/EP280.png" />    </item>		
 	</channel>
 </rss>
