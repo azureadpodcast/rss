@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[The Azure AD Podcast]]></title>
+		<description><![CDATA[Join the Microsoft Identity team and catch up on the latest news on Azure Active Directory and the rest of the Microsoft Entra suite.]]></description>
+		<link>https://www.azureadpodcast.com</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29073846/29073846-1659775840396-c91422dec9867.jpg</url>
+			<title>The Azure AD Podcast</title>
+			<link>https://www.azureadpodcast.com</link>
+		</image>
+		<lastBuildDate>Sat, 06 Aug 2022 11:06:04 GMT</lastBuildDate>
+		<author><![CDATA[Microsoft Identity]]></author>
+		<copyright><![CDATA[Microsoft Identity]]></copyright>
+		<language><![CDATA[en]]></language>
+		<itunes:author>Microsoft Identity</itunes:author>
+		<itunes:summary>Join the Microsoft Identity team and catch up on the latest news on Azure Active Directory and the rest of the Microsoft Entra suite.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Microsoft Identity</itunes:name>
+			<itunes:email>merill@merill.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29073846/29073846-1659775840396-c91422dec9867.jpg"/>
+		<item>
+			<title><![CDATA[Upgrading to AAD Connect v2]]></title>
+			<description><![CDATA[<p>Rob de Jong and Daniel Birmingham talk about upgrading from Azure AD Connect v1 to either Azure AD Connect v2 or the newer Azure Connect Cloud Sync.</p>
+<p>Links from the show:</p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect-v2">What is Azure AD Connect v2.0? - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Azure AD Connect: Upgrade from a previous version - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Upgrading Azure AD Connect Swing Migration</a></p>
+<p>* <a href="https://github.com/Microsoft/AADConnectConfigDocumenter">GitHub - microsoft/AADConnectConfigDocumenter</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history">Azure AD Connect: Version release history - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp">Tutorial - Pilot Azure AD Connect cloud sync for an existing synced AD forest - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-topologies#multiple-azure-ad-tenants">Azure AD Connect: Supported topologies - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-faq">Azure Active Directory Connect FAQ - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-staging-server">Azure AD Connect sync: Operational tasks and considerations - Microsoft Entra | Microsoft Docs</a></p>
+<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr-writeback">Enable Azure Active Directory password writeback - Microsoft Entra | Microsoft Docs</a></p>
+<p>Speakers:</p>
+<p>* <a href="https://twitter.com/rjong999">Rob de Jong - Microsoft</a></p>
+<p>* <a href="https://twitter.com/DbMsft">Daniel Birmingham - Microsoft</a></p>
+<p>Hosts:</p>
+<p>* <a href="https://twitter.com/BaileyBercik">Bailey Bercik - Microsoft</a></p>
+<p>* <a href="https://twitter.com/markmorow">Mark Morowczynski - Microsoft</a></p>
+<p>* <a href="https://twitter.com/jeftek">Jef Kazimer - Microsoft</a></p>
+<p>* <a href="https://twitter.com/merill">Merill Fernando - Microsoft</a></p>
+]]>			</description>
+			<link>https://www.azureadpodcast.com/episodes/upgrading-to-aad-connect-v2</link>
+			<guid isPermaLink="false">d59a7b0d-039c-4859-9a45-7c406fe0c039</guid>
+			<dc:creator><![CDATA[Microsoft Identity]]></dc:creator>
+			<pubDate>Thu, 04 Aug 2022 22:01:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/ade3c198/podcast/play/55756076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-6%2F8a007e00-fc58-f8e4-bbbd-1c4a67ccaac9.mp3" length="54836880" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3120</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/29073846/29073846-1659780927029-10d7b9560325a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
