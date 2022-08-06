@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:anchor="https://anchor.fm/xmlns">
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:spotify="http://www.spotify.com/ns/rss"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title><![CDATA[The Azure AD Podcast]]></title>
 		<description><![CDATA[Join the Microsoft Identity team and catch up on the latest news on Azure Active Directory and the rest of the Microsoft Entra suite.]]></description>
@@ -28,6 +34,7 @@
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29073846/29073846-1659775840396-c91422dec9867.jpg"/>
 		<item>
 			<title><![CDATA[Upgrading to AAD Connect v2]]></title>
+			<itunes:title>Upgrading to AAD Connect v2</itunes:title>
 			<description><![CDATA[<p>Rob de Jong and Daniel Birmingham talk about upgrading from Azure AD Connect v1 to either Azure AD Connect v2 or the newer Azure Connect Cloud Sync.</p>
 <p>Links from the show:</p>
 <p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect-v2">What is Azure AD Connect v2.0? - Microsoft Entra | Microsoft Docs</a></p>
@@ -101,7 +108,7 @@
 			<p>* <a href="https://twitter.com/markmorow">Mark Morowczynski - Microsoft</a></p>
 			<p>* <a href="https://twitter.com/jeftek">Jef Kazimer - Microsoft</a></p>
 			<p>* <a href="https://twitter.com/merill">Merill Fernando - Microsoft</a></p>
-			]]>			</itunes:summary>			
+			]]>			</itunes:summary>
 		</item>
 	</channel>
 </rss>
