@@ -81,6 +81,27 @@
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:summary><![CDATA[<p>Rob de Jong and Daniel Birmingham talk about upgrading from Azure AD Connect v1 to either Azure AD Connect v2 or the newer Azure Connect Cloud Sync.</p>
+			<p>Links from the show:</p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect-v2">What is Azure AD Connect v2.0? - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Azure AD Connect: Upgrade from a previous version - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version">Upgrading Azure AD Connect Swing Migration</a></p>
+			<p>* <a href="https://github.com/Microsoft/AADConnectConfigDocumenter">GitHub - microsoft/AADConnectConfigDocumenter</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history">Azure AD Connect: Version release history - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp">Tutorial - Pilot Azure AD Connect cloud sync for an existing synced AD forest - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-topologies#multiple-azure-ad-tenants">Azure AD Connect: Supported topologies - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-faq">Azure Active Directory Connect FAQ - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-staging-server">Azure AD Connect sync: Operational tasks and considerations - Microsoft Entra | Microsoft Docs</a></p>
+			<p>* <a href="https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr-writeback">Enable Azure Active Directory password writeback - Microsoft Entra | Microsoft Docs</a></p>
+			<p>Speakers:</p>
+			<p>* <a href="https://twitter.com/rjong999">Rob de Jong - Microsoft</a></p>
+			<p>* <a href="https://twitter.com/DbMsft">Daniel Birmingham - Microsoft</a></p>
+			<p>Hosts:</p>
+			<p>* <a href="https://twitter.com/BaileyBercik">Bailey Bercik - Microsoft</a></p>
+			<p>* <a href="https://twitter.com/markmorow">Mark Morowczynski - Microsoft</a></p>
+			<p>* <a href="https://twitter.com/jeftek">Jef Kazimer - Microsoft</a></p>
+			<p>* <a href="https://twitter.com/merill">Merill Fernando - Microsoft</a></p>
+			]]>			</itunes:summary>			
 		</item>
 	</channel>
 </rss>
